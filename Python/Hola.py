@@ -21,3 +21,14 @@ Para cada carpeta:
 
     git push      <- guardar cambios en la nube
      """
+
+"""
+  Creación de Entorno Virtual
+    En consola: estrar dentro de la carpeta requerida
+      python -m venv Nombre
+
+    Activar entorno: estar dentro del entorno
+      Scripts\Active <- diagonal inversa
+    pip freeze muestra los paquetes instalados en el entorno virtual
+    C:\Program Files\Tesseract-OCR
+"""
