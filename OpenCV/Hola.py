@@ -19,4 +19,6 @@ Para cada carpeta:
     git log --oneline               <-ver los puntos de guardado
     git reset -- hard ###           <-para regresar a un punto de guardado, ### número de identificación
     
+    Comentario de prueba
+    
      """
