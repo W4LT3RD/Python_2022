@@ -18,7 +18,6 @@ Para cada carpeta:
     git commit -m "Comentarios"     <-guardar un punto de cambio de código
     git log --oneline               <-ver los puntos de guardado
     git reset -- hard ###           <-para regresar a un punto de guardado, ### número de identificación
-    
-    Comentario de prueba
-    
+
+    git push 
      """
